@@ -1,0 +1,13 @@
+One of my poems "Phasing Out".
+
+The poem can be found in my personal blog here:
+http://www.nishanpantha.com.np/poetry/2019/04/24/phasing-out.html
+
+Animation: This is a simple box animation I have created using my own library.
+Voice: Recorded by me(paradox).
+Music: Composed by me(paradox) in a scale of E.
+Tools Used: A linux system, FFMPEG, bash scripting, Audacity
+Scripts: The script can be found at https://github.com/NISH1001/sounds/blob/master/phasing-out/composer.sh
+
+All the audio, animation and final video can be found here:
+https://github.com/NISH1001/sounds/tree/master/phasing-out
