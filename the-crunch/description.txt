@@ -1,0 +1,9 @@
+The poem "The Crunch" by Charles Bukowski is one of my favourite poems.
+
+This is my first time doing everything on my own - the voice, the music, the animation and the coding...
+
+GIF: Flip animation made by me using http://flipanim.com/
+Voice: Recorded by me(paradox).
+Music: Composed by me(paradox) in a not-so-complicated scale.
+Tools Used: A linux system, FFMPEG, bash scripting, Audacity
+Bash Script: https://gist.github.com/NISH1001/8167d6270168b0b9ef1559db61c502d8
