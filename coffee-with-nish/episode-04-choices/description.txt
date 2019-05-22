@@ -1,0 +1,15 @@
+Episode 4 of my podcast "Coffee with Nish".
+The title "Choices" is self-implied. I am also fascinated by how much choices we have in our existence.
+LIFE is an amalgam of choices — some we have control over and some we don’t.
+
+The full text(essay? written thoughts?) of this podcast can be found in my personal blog here:
+http://www.nishanpantha.com.np/writing/choices.html
+
+
+Everything from audio, video and scripts can be found here:
+https://github.com/NISH1001/sounds
+
+I have used my personal animation library to generate this "beautiful" fractal tree.  
+The reason I chose this particular fractal is the subtle juxtaposition with the title.
+If you think you are stoic enough to listen to this podcast, give it a go. The choice is yours.  
+:)
