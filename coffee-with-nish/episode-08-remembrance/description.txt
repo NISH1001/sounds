@@ -1,0 +1,17 @@
+Episode 8 of my "Thought"cast. :)
+
+This is just a remembrance to all those memories of you when you thought life would be okayish and still, you have no clue on what you are going to do the next time you wake up after a restless night! This is an ode to all those interests you had which have faded into oblivion.
+
+Life is beautiful and joyous during childhood. As children, we think we can conquer the world, but somewhere between childhood and adulthood, our enthusiasm to dream big are squashed.
+
+Text Version can be found here:
+http://www.nishanpantha.com.np/writing/remembrance.html
+
+The library can be found here:
+https://github.com/NISH1001/panim
+
+The code can be found here:
+https://github.com/NISH1001/panim/blob/master/panim/generative.py#L14
+
+The audio/video and scripts for this video can be found here:
+https://github.com/NISH1001/sounds/
